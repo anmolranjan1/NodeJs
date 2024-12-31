@@ -11,6 +11,10 @@
 
 const { calculateSum, calculateMultiply } = require('./calculate');
 
+const data = require('./data.json');
+
+// console.log(data);
+
 // ESM
 // import { x, calculateSum } from './sum.js';
 
