@@ -9,10 +9,12 @@
 
 // const calculateMultiply = require('./calculate/multiply.js');
 
-const { calculateSum, calculateMultiply } = require('./calculate');
+const { calculateSum, calculateMultiply } = require("./calculate");
 
-const data = require('./data.json');
-const util = require('node:util');
+const data = require("./data.json");
+const util = require("node:util");
+
+// this is the line of one branch
 
 // console.log(data);
 // console.log(util);
