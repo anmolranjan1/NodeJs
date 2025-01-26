@@ -14,6 +14,10 @@ const { calculateSum, calculateMultiply } = require('./calculate');
 const data = require('./data.json');
 const util = require('node:util');
 
+const func () {
+    clg
+}
+
 // console.log(data);
 // console.log(util);
 
