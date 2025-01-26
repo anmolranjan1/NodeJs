@@ -15,6 +15,9 @@ const data = require("./data.json");
 const util = require("node:util");
 
 // this is the line of one branch
+const func () {
+    console.log("Hello");
+}
 
 // console.log(data);
 // console.log(util);
