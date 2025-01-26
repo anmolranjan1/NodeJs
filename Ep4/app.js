@@ -14,9 +14,9 @@ const { calculateSum, calculateMultiply } = require("./calculate");
 const data = require("./data.json");
 const util = require("node:util");
 
-// this is the line of dev branch
+// this is the line of check2 branch
 const func () {
-    console.log("Hello");
+    console.log("Hello2");
 }
 
 // console.log(data);
